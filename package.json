@@ -1,0 +1,9 @@
+{
+  "name": "lab1n2",
+  "version": "1.0.0",
+  "description": "Front-back lab2",
+  "main": "index.js",
+  "repository": "https://github.com/About-to-break/fb-1.git",
+  "author": "abouttobreak <111evgenos111@gmail.com>",
+  "license": "MIT"
+}
